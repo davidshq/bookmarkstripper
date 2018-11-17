@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Bookmark Stripper",
+    "description": "Removes tracking codes, etc. from URLs in bookmarks / as bookmarked.",
+    "homepage_url": "https://github.com/davidshq/bookmark-stripper",
+    "version":  "0.0.1",
+    "background": {
+        "scripts": ["/js/background.js"]
+    },
+    "permissions": [
+        "bookmarks"
+    ]
+}

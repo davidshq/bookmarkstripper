@@ -1,0 +1,1 @@
+- 0.0.1 - 11/16/18 - Initial Release. Strips ?utm_source and following content from newly bookmarked URLs.
